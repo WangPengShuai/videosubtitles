@@ -1,0 +1,15 @@
+1
+00:00:00,180 --> 00:00:03,500
+Starten wir das Projekt!
+
+2
+00:00:08,780 --> 00:00:24,00
+Bei den Liegestützen muss man aufpassen, dass die Arme nicht zu weit auseinander sind
+
+3
+00:00:22,940 --> 00:00:24,860
+c'est la vie
+
+4
+00:00:30,300 --> 00:00:30,900
+... und tschüss
